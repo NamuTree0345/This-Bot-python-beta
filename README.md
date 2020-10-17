@@ -9,3 +9,5 @@
 아래의 URL이 웹사이트입니다!
 ```
 https://johanbag290.wixsite.com/wearedcbotmaker/
+
+# 2020. 10. 17 이런 이거때문에 토큰유출되었군 과거의나여... 왜그랬니..
